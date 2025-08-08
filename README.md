@@ -10,3 +10,4 @@ This repository showcases my coding skills in languages such as Java, SQL, and J
 <H3> Solved 162 JAVA problems and 8 SQL problems.(as on 08 - August -2025) </H3>
 <img width="435" height="391" alt="image" src="https://github.com/user-attachments/assets/aa6a7e4b-a530-4cc6-b3bf-b72cc4b71432" />
 
+<h2>My Leetcode Profile : <a href = "https://leetcode.com/u/abhinavsrivasttava/"> LeetCode</a></h2>
