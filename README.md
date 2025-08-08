@@ -3,7 +3,8 @@ This repository showcases my coding skills in languages such as Java, SQL, and J
 
 
 
-<img width="1845" height="600px" alt="image" src="https://github.com/user-attachments/assets/5daeb3ba-9268-4161-b383-6049d77e1054" />
+<img width="1773" height="851" alt="image" src="https://github.com/user-attachments/assets/1bbe4767-f53c-43ff-a2a3-2ae6a70809d3" />
+
 
 <H3> Solved over 170 questions on LeetCode, including 162 exclusively in Java, covering a wide range of topics and difficulty levels. </H3>
 
