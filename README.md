@@ -18,3 +18,8 @@ This repository showcases my coding skills in languages such as Java, SQL, and J
 <h2>Beating 99.25% Solutions.</h2>
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf675b7-e474-4eb0-82a6-f73d2da41ade" />
+
+<p> Another efficient and optimized Java solution to the "Soup Servings" problem using DFS + Memoization (Dynamic Programming), written with clean structure, reduced memory usage, and a performance tweak to beat 100% submissions.</p>
+
+<img width="1893" height="812" alt="image" src="https://github.com/user-attachments/assets/c9cdb83e-90d6-4f89-9d61-7e934266efef" />
+
