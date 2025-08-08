@@ -7,3 +7,5 @@ This repository showcases my coding skills in languages such as Java, SQL, and J
 
 <H3> Solved over 170 questions on LeetCode, including 162 exclusively in Java, covering a wide range of topics and difficulty levels. </H3>
 
+<H3> Solved 162 JAVA problems and 8 SQL problems. </H3>
+
