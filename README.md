@@ -15,4 +15,6 @@ This repository showcases my coding skills in languages such as Java, SQL, and J
 
 <h1>Submission Details</h1>
 
+<h2>Beating 99.25% Solutions.</h2>
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6cf675b7-e474-4eb0-82a6-f73d2da41ade" />
